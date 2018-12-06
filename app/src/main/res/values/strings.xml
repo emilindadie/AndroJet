@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroJet</string>
+    <string name="sign_in_email">Email</string>
+    <string name="sign_in_password">Password</string>
+</resources>
